@@ -109,15 +109,17 @@ python manage.py runserver
 </p>
 
 
-### endi select_related ni foydalanib ko'ramiz,natijalar birhil ammo timesga etibor bering
+- [x]  **select_related ni foydalanib ko'ramiz, va lazy queryni commentga olib qo'yaman,natijalar birhil ammo timesga etibor bering**
+
 <p align="center">
-<img src="https://github.com/fayzullohblog/test/tree/main/media/prefetch_related" alt="Some programming languages logos">
+<img src="https://github.com/fayzullohblog/test/blob/main/media/prefetch_related/photo_2023-12-06_20-28-18.jpg" alt="Some programming languages logos">
 </p>
 
+***41 ms bilan 5 ms orasida juda katta farq bor, demak select_relateddan ko'proq o'rnini bilib foydalangan afzal ekan, select_related qo'yidagi ikki modul o'rtasidagi bog'liq jarayonlar bo'lsa foydalaniladi, ForiegnKey va OneToOne fieldlar uchun ManyToMany uchun esa prefetch_related deganlari bor, bu bilan ham inshaa Alloh vaqt bo'lganda tanishamiz,***
+
+### endi [FOLLOW ](https://pages.github.com/)  bosing 
 
 
 
 
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,aws,html,css)](https://skillicons.dev)
