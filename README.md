@@ -1,7 +1,7 @@
 # select_related
 **`select_related` orqali N+1 so'rovlar sonini kamaytirish va time vaqtini qisqartirish**
 
-##  [  bu mening githubim [FOLLOW ](https://pages.github.com/)  bosing  ]
+##  [  bu mening githubim [FOLLOW ](https://github.com/fayzullohblog)  bosing  ]
 
 <p align="center">
 <img src="https://github.com/fayzullohblog/test/blob/main/media/select_related/photo_2023-12-06_20-27-40.jpg" alt="Some programming languages logos">
