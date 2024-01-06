@@ -4,7 +4,7 @@
 ##  [  bu mening githubim [FOLLOW ](https://github.com/fayzullohblog)  bosing  ]
 
 <p align="center">
-<img src="https://github.com/fayzullohblog/test/blob/main/media/select_related/photo_2023-12-06_20-27-40.jpg" alt="Some programming languages logos">
+<img src="https://github.com/fayzullohblog/test/blob/main/media/select_related/photo_2023-12-06_20-27-40.jpg" >
 </p>
 
 
